@@ -1,0 +1,226 @@
+CASE FILE: FDCPA COUNTERCLAIM IN AN IDAHO COLLECTION SUIT
+=========================================================
+
+A consumer debt-collection suit with a Fair Debt Collection Practices Act (FDCPA) counterclaim, pending in
+Ada County, Idaho (Fourth Judicial District, Magistrate Division). Bench trial; no trial date set yet.
+
+This file is a plain-text summary written for review, including by an AI assistant. It adds detail to
+https://idaho-fdcpa-case.github.io/case.html, including dates and the source of each quotation. Names of the
+parties and the case number are omitted. Dollar amounts are rounded for privacy; exact figures are in the full
+case file. Party names are provided on request after checking for conflicts, and the full file is sent to
+attorneys after verifying their license and checking for conflicts. Contact: idaho.fdcpa.case@gmail.com
+
+Terms used below:
+  Defendant          = me, the consumer, representing myself (pro se)
+  Collection agency  = the plaintiff and counter-defendant
+  Agency's attorney  = the plaintiff's counsel
+  Creditor           = the HVAC company that did the service call (a non-party)
+
+
+1. WHERE I STAND
+----------------
+I've filed the pleadings, discovery, and motions to the best of my ability, but I'm not a lawyer, and I know
+it. I want an attorney to take the lead from here. I'll support the work in any way that helps, and I'll defer
+to their judgment.
+
+
+2. THE STORY
+------------
+In July 2022 I called an HVAC company to diagnose my air conditioner and agreed to a diagnostic fee of about
+$100. On that call, after I described the problem, the person I spoke with said it sounded like it could
+be the thermostat. I said I didn't think so, because the problem had only just started.
+
+The next day, a technician showed up and found the issue was a disconnected thermostat wire, reconnected it,
+and afterwards came to me and told me he was done. I thanked him, and he said they would bill me. No amount
+was mentioned.
+
+About two weeks later, I received an invoice for $500. I figured it was a mistake. I had only agreed to a
+diagnostic, and I assumed reconnecting the thermostat wire was part of it, since it takes about as much time
+and effort as plugging something into a wall outlet, and I wasn't told about a separate repair or charge
+before or after the technician did the work.
+
+I called the company to sort out the mix-up. The owner told me, as I wrote at the time, that the reason he
+charged me $500 was that on that first call I'd told him I didn't think the problem was the thermostat. I
+described it in writing twice: in a July 2022 email to the creditor, and in my August 2022 written dispute
+to the collection agency.
+
+I filed a complaint with the Idaho Attorney General, paid $100 in person, and disputed the rest. The creditor
+assigned the roughly $400 balance to a collection agency. On authorization, its written response to the Attorney
+General offered one explanation: that its technician understood I had "tacitly agreed to the repair."
+The Attorney General's office then closed the complaint, noting that the business was unwilling to resolve it.
+
+I sent the agency a detailed written dispute in August 2022, pointing to that response. Its answer to my
+counterclaim admits forwarding that dispute to the creditor. In 2026 the agency and its attorney sent new
+demands; I disputed again in writing. The attorney replied with a copy of the invoice and sued nearly four
+years later, in May 2026.
+
+
+3. AT A GLANCE
+--------------
+  Price agreed       About $100, for a diagnostic
+  Invoiced           About $500
+  Paid               About $100
+  Sued for           About $400, plus interest and attorney fees
+  Counterclaim       FDCPA, 15 U.S.C. 1692f(1), 1692e(2)(A), 1692e(10)
+  Conduct sued on    The May 2026 collection suit, inside the one-year limitations period
+  Next hearings      Early 2027
+
+
+4. THE CREDITOR'S OWN WORDS (with sources)
+------------------------------------------
+a) The invoice's printed policy, under its diagnostic line, describes the creditor's own process: a
+   technician diagnoses the problem, then presents the problem and a flat fee to repair it, and no diagnostic
+   fee is charged if the customer approves the repair at the time of the diagnostic.
+
+   No flat fee was presented to me, and I was not asked to approve a repair.
+
+b) The updated invoice the creditor emailed me in July 2022 lists the diagnostic at $0.00, although its
+   policy waives that fee only when a customer approves the repair.
+
+c) The updated invoice lists seven troubleshooting tasks under the diagnostic. Task 7 is the
+   technician finding and correcting the wiring problem.
+
+   The invoice then separately charges about $500 on a wiring-repair line item, described generically
+   as fixing a wiring problem such as a loose terminal or burned wire.
+
+d) The creditor's written response to my Idaho Attorney General complaint (August 2022) said its
+   technician understood that I "tacitly agreed to the repair." It does not say a price was quoted, or that
+   anyone asked me to approve a repair. The same response says that when I paid, I "stated that it was a
+   'partial payment.'"
+
+e) In an August 2022 letter from the creditor to the collection agency, which the agency's attorney sent me from the agency's file: "Finally, sticker shock is not a valid reason
+   for not paying a debt owed."
+
+
+5. TIMELINE
+-----------
+2022
+  Jul    - Scheduling call. Diagnostic fee of about $100 quoted and agreed.
+         - Service visit, the next day. Wire reconnected. No repair price quoted.
+         - Creditor mails the original invoice.
+         - After receiving the invoice, I call the creditor. The owner tells me why he charged $500 (see
+           section 2).
+         - My complaint to the Idaho Attorney General.
+         - Creditor emails an updated invoice with the itemized tasks. I reply by email quoting its policy,
+           describing the owner's explanation for the $500, and asking whether the technician has a
+           different account of what happened. The creditor's own internal note, later attached to its
+           Attorney General response, records receiving the email. That question was never answered.
+         - I pay $100 in person.
+  Aug    - Account assigned to the collection agency (admitted in the agency's answer to the counterclaim).
+         - Creditor's written response to the Attorney General ("tacitly agreed to the repair"). The
+           Attorney General's office closes the complaint.
+         - My detailed written dispute to the agency, including the owner's explanation for the $500. The
+           agency forwards it to the creditor the same day, requesting a written response (admitted).
+         - Creditor's letter to the agency ("sticker shock").
+
+2026
+  Mar      New demand letters from the agency and its attorney.
+  Apr      My written dispute and validation request to the attorney (admitted). The attorney responds with
+           the invoice.
+  May      Agency sues for about $400, plus interest and attorney fees.
+  Jul      My answer, then an amended answer with a three-count FDCPA counterclaim. First discovery set served.
+  Aug      Agency answers the counterclaim, after my notice of intent to take default. Second discovery set
+           served. Records subpoena served on the creditor. First motion to compel.
+  Sep      Second motion to compel.
+  Oct      Subpoena production incomplete. Motion to compel the creditor's subpoena compliance. Status
+           conference; both motions to compel continued by agreement.
+
+2027
+  Early    Hearings on the subpoena-compliance motion and both motions to compel.
+
+
+6. THE COUNTERCLAIM
+-------------------
+Three counts under the FDCPA, all based on the May 2026 lawsuit:
+  1. 15 U.S.C. 1692f(1): collecting an amount not expressly authorized by the agreement creating the debt or
+     permitted by law.
+  2. 15 U.S.C. 1692e(2)(A): false representation of the character, amount, or legal status of the debt.
+  3. 15 U.S.C. 1692e(10): false representation or deceptive means to collect a debt.
+Relief sought includes statutory damages, costs, and attorney fees.
+
+
+7. WHERE THE CASE STANDS
+------------------------
+- Pleadings closed. The agency answered the counterclaim in August 2026. It admits:
+    - that it is a "debt collector" under 15 U.S.C. 1692a(6), and that the obligation is a consumer "debt"
+      under 1692a(5) (the service was for my personal residence);
+    - the assignment, and the invoice's printed policy;
+    - that its file has held my 2022 dispute and the creditor's AG response since 2022.
+- The agency's pleaded defenses: failure to state a claim; bona fide error (1692k(c)); the debt is valid and
+  its statements relied on the creditor's records; good-faith reliance on the creditor; ratification or
+  estoppel (that I permitted the work, accepted its benefit, and made a partial payment without objecting
+  before the work was done); no actual damages; and the one-year limitations period.
+- Discovery. I served two sets of interrogatories, requests for production, and requests for admission. The
+  agency served no responses or objections to either set. Beyond the invoice's contents (section 4), the first
+  set's requests for admission asked the agency to admit that the only price quoted before the service was the
+  diagnostic fee, and that it has no contract, work authorization, or estimate signed by me, and no document
+  showing a flat repair fee was presented.
+- Motions to compel. Two are pending, set for hearing in early 2027.
+- Creditor subpoena. A records subpoena was personally served on the creditor in August 2026. Production was
+  incomplete; my motion to compel compliance is set for hearing in early 2027.
+
+
+8. HOW COUNSEL IS PAID
+----------------------
+The FDCPA shifts fees to the collector. In "any successful action," the court awards "the costs of the action,
+together with a reasonable attorney's fee as determined by the court" (15 U.S.C. 1692k(a)(3)). As I understand
+it, courts treat that award as mandatory for a successful consumer. The court sets the amount:
+reasonable hours times a reasonable rate, which it may adjust for the results obtained. The fee isn't limited
+to the size of the damages; statutory damages are capped at $1,000. If the action succeeds, the agency pays
+the fee.
+
+
+9. WHAT I'M LOOKING FOR
+-----------------------
+- An attorney to take the case on a contingency / fee-shift basis under 1692k(a)(3). Full representation,
+  limited-scope, or trial-only arrangements are all welcome.
+- FDCPA experience is a plus, not a prerequisite. The pleadings are closed and the file is organized.
+- I'm prepared and willing to see the case through trial if it comes to that.
+
+
+10. REQUEST THE FULL CASE FILE
+------------------------------
+The full file includes:
+
+  Pleadings
+  - The agency's complaint
+  - My answer, and my amended answer with the FDCPA counterclaim
+  - The agency's answer to the counterclaim
+  - My notice of intent to take default and application for entry of default (filed before the agency answered)
+
+  2022 records
+  - The original and updated invoices
+  - My email to the creditor disputing the charge, which it never answered, and the creditor's internal note
+    confirming it received the email
+  - My Attorney General complaint and the creditor's written response, with its attachments
+  - My written dispute to the agency
+  - The creditor's letter to the agency, and the agency's letter forwarding it to me
+
+  2026 letters
+  - The agency's demand and its attorney's collection notice
+  - My written dispute and validation request, and the attorney's response
+
+  Discovery and motions
+  - Both sets of interrogatories, requests for production, and requests for admission, with proof of service
+  - Both motions to compel, with declarations and proposed orders
+
+  Creditor subpoena
+  - The subpoena and proof of personal service
+  - The creditor's partial production and my deficiency letter
+  - My motion to compel compliance, with declaration and exhibits
+
+  Court record
+  - The docket and hearing notices
+
+To request it, email idaho.fdcpa.case@gmail.com with:
+
+  Subject: Case file request: FDCPA counterclaim, Idaho
+
+  Name:
+  Firm:
+  Do you or your firm represent debt collectors or creditors? (yes/no):
+  State(s) licensed, with bar number(s):
+  Based in the Treasure Valley? (yes/no):
+  Anything you'd like to know or tell me:
+
+I'll verify each request against the state bar roster and reply to the address listed there.
